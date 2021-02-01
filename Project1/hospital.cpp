@@ -10,7 +10,7 @@ Hospital::Hospital()
     specials.push_back(Specialization("orthopedics"));
     specials.push_back(Specialization("neurology"));
 
-    cout << "As especializações deste hospital são: " << endl
+    cout << "The specializations: " << endl
          << endl;
 
     for (auto &s : specials)
