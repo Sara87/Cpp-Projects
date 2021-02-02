@@ -11,7 +11,6 @@ Basic funcionalities:
 * List patients from a specialization
 * Get next patient from queue
 
-
 ## Project2 - Basic
 
 Library system. There is a Library with books and users that con borrow books.
