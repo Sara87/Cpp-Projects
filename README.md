@@ -13,7 +13,7 @@ Basic funcionalities:
 
 ## Project2 - Basic
 
-Library system. There is a Library with books and users that con borrow books.
+Library system. There is a Library with books and users that can borrow books.
 
 Basic funcionalities:
 * Add/remove books
